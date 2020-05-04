@@ -1,0 +1,31 @@
+{
+  "algolia_search": {
+    "js": "algolia_search.6c14b550.js"
+  },
+  "comments": {
+    "js": "comments.d8514ca5.js"
+  },
+  "details-polyfill": {
+    "js": "details-polyfill.78cfde55.js"
+  },
+  "fuse_search": {
+    "js": "fuse_search.1b5d42a8.js"
+  },
+  "lunr_search": {
+    "js": "lunr_search.8d32c05b.js"
+  },
+  "main": {
+    "css": "main.e67a440d.css",
+    "js": "main.48dfa464.js"
+  },
+  "rtl": {
+    "css": "rtl.e580af8f.css",
+    "js": "rtl.a636518b.js"
+  },
+  "sidebar": {
+    "js": "sidebar.8d4aead8.js"
+  },
+  "twemoji": {
+    "js": "twemoji.2e4280c1.js"
+  }
+}
