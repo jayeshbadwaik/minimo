@@ -1,9 +1,4 @@
-all: update
-
-update: run
-	git add .
-	git commit -m "+ update $(shell date)"
-	git push
+all: run
 
 run: build
 	npm run-script build
