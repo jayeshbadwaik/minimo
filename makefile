@@ -1,5 +1,6 @@
 all: run
 
+
 run: build
 	npm run-script build
 
