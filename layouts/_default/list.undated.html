@@ -11,7 +11,7 @@
 <div class='container list-container'>
   <ul class='list'>
     {{ range (.Paginate .RegularPagesRecursive).Pages }}
-      {{ .Render "li" }}
+      {{ .Render "li.undated" }}
     {{ end }}
   </ul>
 
